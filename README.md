@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @PtCookie
+- 🌱 I’m currently learning Kotlin, TypeScript, Spring Boot and React.js
+- 📫 How to reach me: ptcookie@outlook.com
+- ⚡ Fun fact: Major in Mechatronics Engineering
+
 <!--
 **PtCookie/PtCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

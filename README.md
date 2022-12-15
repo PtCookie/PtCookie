@@ -6,12 +6,12 @@
 
 ### 🔭 I’m currently working on ...
 
-- [Currency exchanger](https://github.com/PtCookie/cookiecurex)
+- [DevLog](https://blog.ptcookie.dev/)
 
 ### 🌱 I’m currently learning ...
 
 - Next.js
-- GraphQL
+- [Rust](https://github.com/PtCookie/rust-example)
 
 <!-- ## 👯 I’m looking to collaborate on ... -->
 

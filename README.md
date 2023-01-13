@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m Minsup Ju.
-- 📫 How to reach me: https://blog.ptcookie.dev/
-- ⚡ Fun fact: Major in Mechatronics Engineering.
+### 👋 Hi, I’m Minsup Ju.
+
+<!-- ### 📫 How to reach me: https://blog.ptcookie.dev/ -->
 
 ### 🔭 I’m currently working on ...
 
 - [DevLog](https://blog.ptcookie.dev/)
+- Next.js and Electron app at work
 
 ### 🌱 I’m currently learning ...
 
-- Next.js
-- [Rust](https://github.com/PtCookie/rust-example)
+- ASP.NET
+- Rust
 
-<!-- ## 👯 I’m looking to collaborate on ... -->
+<!-- ### 👯 I’m looking to collaborate on ... -->
+
+### ⚡ Fun fact: Major in Mechatronics Engineering.
 
 ## DevCard
 

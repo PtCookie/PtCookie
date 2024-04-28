@@ -6,13 +6,13 @@
 
 ### 🔭 I’m currently working on ...
 
-- [DevLog](https://blog.ptcookie.dev/)
-- Next.js and Electron app at work
+- Electron app
+- Next.js
 
 ### 🌱 I’m currently learning ...
 
-- ASP.NET
 - Rust
+- Docker and Kubernetes
 
 <!-- ### 👯 I’m looking to collaborate on ... -->
 

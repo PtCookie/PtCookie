@@ -13,15 +13,15 @@ I like to learn new skills and try them.
 
 ### 🌱 I’m currently learning ...
 
-- Rust
 - Docker and Kubernetes
+- Desktop GUI toolkit
 
 <!-- ### 👯 I’m looking to collaborate on ... -->
 
 ### ⚡ Fun fact
 
 - Major in Mechatronics Engineering
-- I use Arch BTW
+- I use Arch BTW 😄
 
 ## DevCard
 

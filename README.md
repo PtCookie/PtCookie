@@ -2,6 +2,8 @@
 
 ### 👋 Hi, I’m Minsup Ju.
 
+I like to learn new skills and try them.
+
 <!-- ### 📫 How to reach me: https://blog.ptcookie.dev/ -->
 
 ### 🔭 I’m currently working on ...
@@ -16,7 +18,10 @@
 
 <!-- ### 👯 I’m looking to collaborate on ... -->
 
-### ⚡ Fun fact: Major in Mechatronics Engineering.
+### ⚡ Fun fact
+
+- Major in Mechatronics Engineering
+- I use Arch BTW
 
 ## DevCard
 

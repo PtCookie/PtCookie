@@ -25,6 +25,6 @@ I like to learn new skills and try them.
 
 ## DevCard
 
-<a href="https://app.daily.dev/PtCookie">
-  <img src="https://raw.githubusercontent.com/PtCookie/PtCookie/main/devcard.svg" width="400" alt="Minsup Ju's Dev Card"/>
+<a href="https://app.daily.dev/ptcookie">
+  <img src="https://raw.githubusercontent.com/PtCookie/PtCookie/main/devcard.png" width="356" alt="Minsup Ju's Dev Card"/>
 </a>

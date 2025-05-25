@@ -4,12 +4,12 @@
 
 I like to learn new skills and try them.
 
-<!-- ### 📫 How to reach me: https://blog.ptcookie.dev/ -->
+<!-- ### 📫 How to reach me: https://ptcookie.net/ -->
 
 ### 🔭 I’m currently working on ...
 
 - Electron app
-- Next.js
+- Astro
 
 ### 🌱 I’m currently learning ...
 
@@ -22,9 +22,3 @@ I like to learn new skills and try them.
 
 - Major in Mechatronics Engineering
 - I use Arch BTW 😄
-
-## DevCard
-
-<a href="https://app.daily.dev/ptcookie">
-  <img src="https://raw.githubusercontent.com/PtCookie/PtCookie/main/devcard.png" width="356" alt="Minsup Ju's Dev Card"/>
-</a>

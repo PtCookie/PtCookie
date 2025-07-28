@@ -8,13 +8,14 @@ I like to learn new skills and try them.
 
 ### 🔭 I’m currently working on ...
 
-- Electron app
+- React & React router
+- Next.js
 - Astro
 
 ### 🌱 I’m currently learning ...
 
-- Docker and Kubernetes
-- Desktop GUI toolkit
+- Spring boot
+- Graphql & JWT Auth
 
 <!-- ### 👯 I’m looking to collaborate on ... -->
 
